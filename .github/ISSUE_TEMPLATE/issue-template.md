@@ -29,7 +29,7 @@ assignees: ''
 
 # Impact on Maintainability and Expected Uptake
 
-<!-- Describe additional effort to maintain the change and potential users. -->  
+<!-- Describe the set of potential users and future efforts to maintain the change. -->  
 
 # References and Pull Requests
 
