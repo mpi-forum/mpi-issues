@@ -27,6 +27,10 @@ assignees: ''
 
 <!-- Describe the changes that will impact users here. -->
 
+# Impact on Maintainability and Expected Uptake
+
+<!-- Describe the set of potential users and future efforts to maintain the change. -->  
+
 # References and Pull Requests
 
 <!-- Insert any internal (other issues and pull requests) or external (websites, papers, etc.) references here. You may come back and edit the description later to add references. -->
